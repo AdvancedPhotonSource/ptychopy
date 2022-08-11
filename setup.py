@@ -12,7 +12,7 @@ setup(
     description='Fast ptychography reconstruction library.',
     author='Ke Yue, Junjing Deng, David J. Vine',
     author_email='kyue@anl.gov, junjingdeng@anl.gov, djvine@gmail.com',
-    download_url='https://github.com/kyuepublic/ptychopy.git',
+    download_url='https://github.com/AdvancedPhotonSource/ptychopy.git',
     install_requires=requirements,
     license='BSD',
     platforms='Any',
