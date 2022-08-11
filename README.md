@@ -11,7 +11,7 @@ or multiple GPUs on supercomputer. It could be used as either a C++ binarary or 
 2. Create a conda environment with the following packages
 
 ```
-conda create -n ptychopy scikit-build "cmake>=3.11" "python>=3.6" hdf5-external-filter-plugins-lz4 ninja numpy
+conda create -n ptychopy --file requirements-dev.txt
 ```
 
 3. Activate the conda environment
